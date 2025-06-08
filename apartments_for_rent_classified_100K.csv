@@ -1,0 +1,6 @@
+id,category,title,body,amenities,bathrooms,bedrooms,currency,fee,has_photo,pets_allowed,price,price_display,price_type,square_feet,address,cityname,state,latitude,longitude,source,time
+1,apartment,Nice 2BHK,Spacious and well-lit,"wifi,parking",2,2,USD,0,1,1,1500,$1500/mo,monthly,1000,123 Main St,New York,NY,40.7128,-74.006,site1,2024-01-01
+2,apartment,Cozy Studio,In city center,wifi,1,0,USD,0,1,0,900,$900/mo,monthly,450,456 Park Ave,New York,NY,40.7129,-74.0059,site1,2024-01-02
+3,apartment,3BHK Luxury,Fully furnished,"wifi,parking,gym",3,3,USD,0,1,1,3200,$3200/mo,monthly,1500,789 Central Rd,New York,NY,40.713,-74.0058,site1,2024-01-03
+4,apartment,Modern 1BHK,Near subway,parking,1,1,USD,0,1,1,1800,$1800/mo,monthly,800,111 East St,New York,NY,40.7131,-74.0057,site1,2024-01-04
+5,apartment,Budget Room,Ideal for students,wifi,1,0,USD,0,1,0,700,$700/mo,monthly,350,222 West St,New York,NY,40.7132,-74.0056,site1,2024-01-05
